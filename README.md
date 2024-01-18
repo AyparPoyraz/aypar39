@@ -1,9 +1,9 @@
-<h1 align="center">Hi 🐺,I'm Aypar Poyraz</h1>
+<h1 align="center">Hi 🐺, I'm Aypar Poyraz</h1>
 <h3 align="center">A passionate front-end and Program developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Game Module**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, Backend System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aypar39](https://github.com/aypar39)
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/@samuilxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuilxd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aypar39&show_icons=true&locale=en" alt="aypar39" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aypar39&" alt="aypar39" /></p>
-
-![snake gif](https://github.com/aypar39/aypar39/blob/output/github-contribution-grid-snake.gif)
+![dog-anime](https://github.com/aypar39/aypar39/assets/113764467/9f3a1ac8-7314-4e04-9a58-960ed7c7c25a)
