@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpaperaccess.com/full/4910984.gif)
 [![banner](https://github.com/aypar39/aypar39/assets/113764467/72441ff3-c472-4df0-bb92-29f1d8118203)
 
 <h1 align="center">Hi 🐺, I'm Aypar Poyraz</h1>
