@@ -12,6 +12,8 @@
 - 💬 Ask me about **What kind of projects are you interested in?**
 
 - 📫 How to reach me **poyrazaypar@gmail.com**
+-   <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aypar39&show_icons=true&locale=en" alt="aypar39" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aypar39&" alt="aypar39" /></p>
-![dog-anime](https://github.com/aypar39/aypar39/assets/113764467/9f3a1ac8-7314-4e04-9a58-960ed7c7c25a)
+
