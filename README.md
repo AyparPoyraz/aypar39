@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aypar39&label=Profile%20views&color=0e75b6&style=flat" alt="aypar39" /> </p>
 
-- 🔭 I’m currently working on **Game Module**
+- 🔭 I’m currently working on **New Coin Analysis Program Alternatives**
 
 - 🌱 I’m currently learning **C#, Backend System**
 
